@@ -1,0 +1,5 @@
+﻿this is the master-model level.Any code that has model related design 
+goes here such as:
+1) Business-Logic code
+2) Transformation/Conversion/Mathematical modelling code
+3) any other action related to the above

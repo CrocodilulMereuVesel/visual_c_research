@@ -1,0 +1,4 @@
+﻿this is the master-view level.Any code that has view related design 
+goes here such as :
+1) GUI dataflow related code
+2) GUI action related  code

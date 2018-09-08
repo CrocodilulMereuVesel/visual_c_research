@@ -1,0 +1,10 @@
+﻿this is the master-controller level.Any code that has controller related design 
+goes here such as:
+1)Application intialisation and shutdown code
+2)View-Model  interaction code
+3)COMS code such as (but not limited to):
+    3.1) Database communication management(if any)
+    3.2) Sql script management/Sql script loader /Sql local repository scrips(if any)
+    3.2) File I/O (if any)
+    3.3) Web services comms(if any)
+    3.4)Embedded database(such as SQLite) management code (if any)
